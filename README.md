@@ -24,8 +24,6 @@ Repositório dedicado para documentar minha experiência durante a resolução d
 
 Aqui você vai encontrar minha resolução neste empolgante desafio que foi proposto. Algumas etapas foram bem desafiantes visto que é meu primeiro contato com essa tecnologia, foi muito divertido pesquisar e aprender coisas novas.
 
-**E o mais importante: não é tanto que eu consegui fazer nessa entrega, mas onde terminei em relação a mim mesma desde o dia que começei as pesquisas nesse desafio.**
-
 ### Shopify
 
 A [Shopify](https://shopify.com/) é uma empresa de comércio canadense com sede em Ottawa, Ontário, que desenvolve softwares de computadores para lojas online e sistemas de varejo de ponto de venda.
@@ -50,19 +48,19 @@ Até o momento que escrevo, não consegui completar os 3.
  
  Algumas etapas da minha resolução foram:
 
-1. Entendimento do problema: Procurei entender os requisitos do negócio e os objetivos a serem alcançados. Identifiquei lagumas restriçẽos de início e uma delas foi o desafios técnico.
+**1. Entendimento do problema**: Procurei entender os requisitos do negócio e os objetivos a serem alcançados. Identifiquei lagumas restriçẽos de início e uma delas foi o desafios técnico.
 
-2. Planejamento: Dividi o problema em partes menores e mais gerenciáveis. Isso me ajudou a abordar cada desafio de forma mais eficaz.
+**2. Planejamento:** Dividi o problema em partes menores e mais gerenciáveis. Isso me ajudou a abordar cada desafio de forma mais eficaz.
 
-3. Escolha da metodologia de desenvolvimento: Metodologias ágeis, usei um quadro Kanban, para lidar com organização e autogerenciamento.
+**3. Escolha da metodologia de desenvolvimento:** Metodologias ágeis, usei um quadro Kanban, para lidar com organização e autogerenciamento.
 
-4. Implementação e Desenvolvimento: A escolha das ferramentas adequadas para implementar a solução foi uma parte interessante do desafio. Nesta devolutiva não consegui entregar o meu habitual embora eu tenha prendido muito com a excelente documentação da shopify, pude observar alguns erros durante meu desenvolvimento. Alguns detalhes que precisavam de constantes paradas para pesquisa e estudo antes de continuar o desenvolvimento em si. Testes: Esse foi um ponto que não consegui achar e fiquei curiosa para saber se existem ferramentas que testam extensões dos app.
+**4. Implementação e Desenvolvimento:** A escolha das ferramentas adequadas para implementar a solução foi uma parte interessante do desafio. Nesta devolutiva não consegui entregar o meu habitual embora eu tenha prendido muito com a excelente documentação da shopify, pude observar alguns erros durante meu desenvolvimento. Alguns detalhes que precisavam de constantes paradas para pesquisa e estudo antes de continuar o desenvolvimento em si. Testes: Esse foi um ponto que não consegui achar e fiquei curiosa para saber se existem ferramentas que testam extensões dos app.
 
-5. Documentação: A documentação consiste na escrita desde README mantendo registros detalhados do processo de desenvolvimento, incluindo decisões, problemas encontrados e soluções implementadas.
+**5. Documentação:** A documentação consiste na escrita desde README mantendo registros detalhados do processo de desenvolvimento, incluindo decisões, problemas encontrados e soluções implementadas.
 
-6. Comunicação: Minha ideia inicialmente seria me comunicar regularmente com as partes interessadas para garantir que a solução proposta atendesse às expectativas do negócio. Porém alguns fatores limitantes me desviaram desse plano inicial e não segui com essa ideia, e isso nunca é interessante principalmente no dia a dia trabalhando mas considerei como parte do desafio pesquisar por conta própria.
+**6. Comunicação:** Minha ideia inicialmente seria me comunicar regularmente com as partes interessadas para garantir que a solução proposta atendesse às expectativas do negócio. Porém alguns fatores limitantes me desviaram desse plano inicial e não segui com essa ideia, e isso nunca é interessante principalmente no dia a dia trabalhando mas considerei como parte do desafio pesquisar por conta própria.
 
-Ferramentas úteis:
+**Ferramentas úteis:**
 - Controle de versão: Git.
 - Ambientes de Desenvolvimento Integrado -(IDEs): Visual Studio Code.
 - Plataformas de Gerenciamento de Projetos: - Trello.
@@ -71,22 +69,22 @@ Ferramentas úteis:
 
 ## Desafio 1 ✨
 
-Desafio 1: Front-end - Personalização de um tema na loja Shopify.
+**Desafio 1: Front-end - Personalização de um tema na loja Shopify.**
 Esse desafio incluia a criação de uma conta Shopify Partners, criação de uma loja de desenvolvimento seguindo as instruçẽos na [Shopify Development Stores](https://help.shopify.com/en/partners/dashboard/managing-stores/development-stores).
 
 Também estava incluido fazer uma modificação na página inicial do tema para ficar semelhante ao site da Gocase. Na própria shopify existe um recurso para fazer algumas modificações simpes no-code, porém eram muito limitas e optei por baixar o tema e fazer algumas modificações simples localmente para em seguida publicar novamente o tema e a loja. Nesse passo foi necessário fazer download do kit de desenvolvimento e também foi utilizado o app Theme Access para fazer autenticação por email.
 
-Bônus (opcional):
+**Bônus (opcional):**
 
 1. ✅ Faça o deploy do seu tema no Github. [Ver aqui]()
 2.  Implemente integração contínua com o Github.
 3.  Utilize o Shopify-CLI no seu processo.
 
-✅ loja: https://gocaseapp.myshopify.com/
+✅ **loja:** https://gocaseapp.myshopify.com/
 
-✅ preview: https://k16ohw4tkmo6eg84-84455129367.shopifypreview.com
+✅ **preview:** https://k16ohw4tkmo6eg84-84455129367.shopifypreview.com
 
-Veja abaixo a demonstração da loja:
+**Veja abaixo a demonstração da loja:**
 
 #### ✅ Desktop
 
@@ -141,7 +139,7 @@ faturamento total.
 
 ## Desafio 3 ✨
 ### Case de Negócio - Seleção de Aplicativos para Shopify
-Desafio 3 - Perguntas Adicionais: 
+**Desafio 3 - Perguntas Adicionais:**
 
 
 ✅ 1. Com um orçamento de $100 por mês e um volume de 10.000 pedidos, qual
